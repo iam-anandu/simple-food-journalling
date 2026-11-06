@@ -1,0 +1,7 @@
+node_modules/
+client/dist/
+client/*.tsbuildinfo
+server/bin/
+server/obj/
+server/food-journal-data.json
+server/food-journal-data.json.tmp
